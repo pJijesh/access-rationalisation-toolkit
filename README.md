@@ -1,5 +1,7 @@
 # access-rationalisation-toolkit
 
+![access-rationalisation-toolkit: project banner](docs/images/banner.png)
+
 [![CI](https://github.com/pJijesh/access-rationalisation-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/pJijesh/access-rationalisation-toolkit/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE) ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![Dependencies: none](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
 
 **Problem:** years of copied, overlapping and orphaned security groups leave business applications with more groups than roles, hidden segregation-of-duties conflicts, and no safe way to tidy up without breaking someone's job or quietly widening their access.
