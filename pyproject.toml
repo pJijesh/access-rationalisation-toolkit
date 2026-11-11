@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "access-rationalisation-toolkit"
+dynamic = ["version"]
+description = "A method and a small standard-library tool for rationalising legacy access groups into a reviewable role model."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Jijesh Puliyappottammal" }]
+keywords = ["iam", "access-review", "role-based-access-control", "segregation-of-duties", "least-privilege"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Security",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/pJijesh/access-rationalisation-toolkit"
+
+[project.scripts]
+access-rat = "access_rat.cli:main"
+
+[tool.setuptools.dynamic]
+version = { attr = "access_rat.__version__" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

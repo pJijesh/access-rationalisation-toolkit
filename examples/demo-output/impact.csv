@@ -1,0 +1,151 @@
+user,department,job_title,old_groups,new_roles,old_group_count,new_role_count,old_permission_count,new_permission_count,gains_access,gained_permissions,gained_via_roles,loses_access,lost_permissions,sod_conflicts_before,sod_conflicts_after,sod_conflicts_new,severity,review_required
+U001,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U002,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U003,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U004,Operations,Freight Operator,ALL_STAFF; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-02,2,2,12,12,no,,,no,,,,,,no
+U005,Operations,Freight Operator,ALL_STAFF; OPS_BASIC,ROLE-MIX-01; ROLE-OPE-01,2,2,5,5,no,,,no,,,,,,no
+U006,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U007,Operations,Freight Operator,ALL_STAFF; OPS_BASIC,ROLE-MIX-01; ROLE-OPE-01,2,2,5,5,no,,,no,,,,,,no
+U008,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U009,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U010,Operations,Freight Operator,ALL_STAFF; OPS_BASIC,ROLE-MIX-01; ROLE-OPE-01,2,2,5,5,no,,,no,,,,,,no
+U011,Operations,Freight Operator,ALL_STAFF; OPS_BASIC,ROLE-MIX-01; ROLE-OPE-01,2,2,5,5,no,,,no,,,,,,no
+U012,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U013,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U014,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_BOOKING_COPY,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,4,3,12,12,no,,,no,,,,,,no
+U015,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U016,Operations,Freight Operator,ALL_STAFF,ROLE-MIX-01,1,1,2,2,no,,,no,,,,,,no
+U017,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U018,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_BOOKING_COPY; SAL_BASIC,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-SAL-01,5,4,14,14,no,,,no,,,,,,no
+U019,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U020,Operations,Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02,3,3,12,12,no,,,no,,,,,,no
+U021,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_SENIOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-OPE-03,4,4,14,14,no,,,no,,,,,,no
+U022,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_SENIOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-OPE-03,4,4,14,14,no,,,no,,,,,,no
+U023,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING_V2,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-05,3,3,13,13,no,,,no,,,,,,no
+U024,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_SENIOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-OPE-03,4,4,14,14,no,,,no,,,,,,no
+U025,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING_V2; OPS_SENIOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-03; ROLE-OPE-05,4,4,15,15,no,,,no,,,,,,no
+U026,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_SENIOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-OPE-03,4,4,14,14,no,,,no,,,,,,no
+U027,Operations,Senior Freight Operator,ALL_STAFF; OPS_BOOKING; OPS_SENIOR,ROLE-MIX-01; ROLE-OPE-02; ROLE-OPE-03,3,3,14,14,no,,,no,,,,,,no
+U028,Operations,Senior Freight Operator,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_BOOKING_V2,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-OPE-05,4,4,13,13,no,,,no,,,,,,no
+U029,Operations,Customer Service Agent,ALL_STAFF; OPS_BASIC; OPS_CSA,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-04,3,3,8,8,no,,,no,,,,,,no
+U030,Operations,Customer Service Agent,ALL_STAFF; OPS_BASIC; OPS_CSA,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-04,3,3,8,8,no,,,no,,,,,,no
+U031,Operations,Customer Service Agent,ALL_STAFF; OPS_BASIC; OPS_BOOKING; OPS_CSA,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-02; ROLE-OPE-04,4,4,13,13,no,,,no,,,,,,no
+U032,Operations,Customer Service Agent,ALL_STAFF; OPS_CSA,ROLE-MIX-01; ROLE-OPE-04,2,2,8,8,no,,,no,,,,,,no
+U033,Operations,Customer Service Agent,ALL_STAFF; OPS_BASIC; OPS_CSA; SHARED_MAILBOX_LEGACY,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-04,4,3,8,8,no,,,no,,,,,,no
+U034,Operations,Customer Service Agent,OPS_CSA; SHARED_MAILBOX_LEGACY,ROLE-OPE-04,2,1,8,8,no,,,no,,,,,,no
+U035,Operations,Operations Supervisor,ALL_STAFF; OPS_BOOKING_V2; OPS_SENIOR; OPS_SUPERVISOR,ROLE-MIX-01; ROLE-OPE-03; ROLE-OPE-05; ROLE-OPE-06,4,4,18,18,no,,,no,,,,,,no
+U036,Operations,Operations Supervisor,ALL_STAFF; OPS_BASIC; OPS_BOOKING_V2; OPS_SENIOR; OPS_SUPERVISOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-03; ROLE-OPE-05; ROLE-OPE-06,5,5,18,18,no,,,no,,,,,,no
+U037,Operations,Operations Supervisor,ALL_STAFF; OPS_BASIC; OPS_SENIOR; OPS_SUPERVISOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-03; ROLE-OPE-06,4,4,17,17,no,,,no,,,,,,no
+U038,Operations,Operations Manager,ALL_STAFF; OPS_BASIC; OPS_SUPERVISOR,ROLE-MIX-01; ROLE-OPE-01; ROLE-OPE-06,3,3,17,17,no,,,no,,,,,,no
+U039,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC,ROLE-CUS-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U040,Customs,Customs Clerk,ALL_STAFF,ROLE-MIX-01,1,1,2,2,no,,,no,,,,,,no
+U041,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC,ROLE-CUS-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U042,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_DRAFT; CUS_DRAFT_TEMP,ROLE-CUS-01; ROLE-CUS-02; ROLE-MIX-01,4,3,8,8,no,,,no,,,,,,no
+U043,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_DRAFT; CUS_DRAFT_TEMP,ROLE-CUS-01; ROLE-CUS-02; ROLE-MIX-01,4,3,8,8,no,,,no,,,,,,no
+U044,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_DRAFT,ROLE-CUS-01; ROLE-CUS-02; ROLE-MIX-01,3,3,8,8,no,,,no,,,,,,no
+U045,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC,ROLE-CUS-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U046,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC,ROLE-CUS-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U047,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC,ROLE-CUS-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U048,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC,ROLE-CUS-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U049,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_DRAFT,ROLE-CUS-01; ROLE-CUS-02; ROLE-MIX-01,3,3,8,8,no,,,no,,,,,,no
+U050,Customs,Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_DRAFT,ROLE-CUS-01; ROLE-CUS-02; ROLE-MIX-01,3,3,8,8,no,,,no,,,,,,no
+U051,Customs,Senior Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_DRAFT; CUS_SUBMIT,ROLE-CUS-01; ROLE-CUS-02; ROLE-CUS-04; ROLE-MIX-01,4,4,9,9,no,,,no,,,,,,no
+U052,Customs,Senior Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_SUBMIT,ROLE-CUS-01; ROLE-CUS-04; ROLE-MIX-01,3,3,9,9,no,,,no,,,,,,no
+U053,Customs,Senior Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_SUBMIT,ROLE-CUS-01; ROLE-CUS-04; ROLE-MIX-01,3,3,9,9,no,,,no,,,,,,no
+U054,Customs,Senior Customs Clerk,ALL_STAFF; CUS_APPROVE; CUS_BASIC; CUS_DRAFT; CUS_SUBMIT,ROLE-CUS-01; ROLE-CUS-02; ROLE-CUS-03; ROLE-CUS-04; ROLE-MIX-01,5,5,11,11,no,,,no,,SOD-005,SOD-005,,,no
+U055,Customs,Senior Customs Clerk,ALL_STAFF; CUS_BASIC; CUS_SUBMIT,ROLE-CUS-01; ROLE-CUS-04; ROLE-MIX-01,3,3,9,9,no,,,no,,,,,,no
+U056,Customs,Senior Customs Clerk,ALL_STAFF; CUS_APPROVE; CUS_BASIC; CUS_DRAFT; CUS_SUBMIT,ROLE-CUS-01; ROLE-CUS-02; ROLE-CUS-03; ROLE-CUS-04; ROLE-MIX-01,5,5,11,11,no,,,no,,SOD-005,SOD-005,,,no
+U057,Customs,Customs Supervisor,ALL_STAFF; CUS_APPROVE; CUS_BASIC; CUS_SUBMIT_V2,ROLE-CUS-01; ROLE-CUS-03; ROLE-CUS-05; ROLE-MIX-01,4,4,12,12,no,,,no,,SOD-005,SOD-005,,,no
+U058,Customs,Customs Supervisor,ALL_STAFF; CUS_APPROVE; CUS_BASIC,ROLE-CUS-01; ROLE-CUS-03; ROLE-MIX-01,3,3,7,7,no,,,no,,,,,,no
+U059,Customs,Customs Supervisor,ALL_STAFF; CUS_APPROVE; CUS_SUBMIT_V2,ROLE-CUS-03; ROLE-CUS-05; ROLE-MIX-01,3,3,12,12,no,,,no,,SOD-005,SOD-005,,,no
+U060,Customs,Customs Compliance Lead,ALL_STAFF; CUS_APPROVE; CUS_BASIC,ROLE-CUS-01; ROLE-CUS-03; ROLE-MIX-01,3,3,7,7,no,,,no,,,,,,no
+U061,Finance,Accounts Payable Clerk,FIN_AP,ROLE-FIN-03,1,1,7,7,no,,,no,,,,,,no
+U062,Finance,Accounts Payable Clerk,ALL_STAFF; FIN_AP,ROLE-FIN-03; ROLE-MIX-01,2,2,9,9,no,,,no,,,,,,no
+U063,Finance,Accounts Payable Clerk,ALL_STAFF; FIN_AP; FIN_AP_APPROVE,ROLE-FIN-03; ROLE-FIN-04; ROLE-MIX-01,3,3,11,11,no,,,no,,SOD-002; SOD-003,SOD-002; SOD-003,,,no
+U064,Finance,Accounts Payable Clerk,ALL_STAFF; CUS_BASIC; FIN_AP,ROLE-CUS-01; ROLE-FIN-03; ROLE-MIX-01,3,3,12,12,no,,,no,,,,,,no
+U065,Finance,Accounts Payable Clerk,ALL_STAFF; FIN_AP; FIN_AP_APPROVE,ROLE-FIN-03; ROLE-FIN-04; ROLE-MIX-01,3,3,11,11,no,,,no,,SOD-002; SOD-003,SOD-002; SOD-003,,,no
+U066,Finance,Accounts Receivable Clerk,ALL_STAFF; FIN_AR,ROLE-FIN-01; ROLE-MIX-01,2,2,7,7,no,,,no,,,,,,no
+U067,Finance,Accounts Receivable Clerk,ALL_STAFF; FIN_AR; WH_BASIC,ROLE-FIN-01; ROLE-MIX-01; ROLE-WAR-01,3,3,9,9,no,,,no,,,,,,no
+U068,Finance,Accounts Receivable Clerk,ALL_STAFF; FIN_AR,ROLE-FIN-01; ROLE-MIX-01,2,2,7,7,no,,,no,,,,,,no
+U069,Finance,Accounts Receivable Clerk,ALL_STAFF; FIN_AR,ROLE-FIN-01; ROLE-MIX-01,2,2,7,7,no,,,no,,,,,,no
+U070,Finance,Accounts Receivable Clerk,ALL_STAFF; FIN_AR,ROLE-FIN-01; ROLE-MIX-01,2,2,7,7,no,,,no,,,,,,no
+U071,Finance,Credit Controller,ALL_STAFF; FIN_AR; FIN_AR_V2; FIN_REPORTING,ROLE-FIN-01; ROLE-FIN-02; ROLE-FIN-05; ROLE-MIX-01,4,4,11,11,no,,,no,,,,,,no
+U072,Finance,Credit Controller,ALL_STAFF; FIN_AR,ROLE-FIN-01; ROLE-MIX-01,2,2,7,7,no,,,no,,,,,,no
+U073,Finance,Accountant,ALL_STAFF; FIN_REPORTING; FIN_SUPPLIER_MASTER,ROLE-FIN-02; ROLE-FIN-06; ROLE-MIX-01,3,3,11,11,no,,,no,,,,,,no
+U074,Finance,Accountant,ALL_STAFF; FIN_REPORTING; FIN_SUPPLIER_MASTER; FIN_TREASURY,ROLE-FIN-02; ROLE-FIN-06; ROLE-FIN-07; ROLE-MIX-01,4,4,13,13,no,,,no,,SOD-004,SOD-004,,,no
+U075,Finance,Accountant,ALL_STAFF; FIN_AP_APPROVE; FIN_REPORTING; FIN_SUPPLIER_MASTER,ROLE-FIN-02; ROLE-FIN-04; ROLE-FIN-06; ROLE-MIX-01,4,4,14,14,no,,,no,,SOD-001,SOD-001,,,no
+U076,Finance,Treasury Analyst,ALL_STAFF; FIN_TREASURY,ROLE-FIN-07; ROLE-MIX-01,2,2,6,6,no,,,no,,,,,,no
+U077,Finance,Finance Manager,ALL_STAFF; FIN_AP_APPROVE; FIN_AR_V2; FIN_REPORTING,ROLE-FIN-02; ROLE-FIN-04; ROLE-FIN-05; ROLE-MIX-01,4,4,15,15,no,,,no,,SOD-002,SOD-002,,,no
+U078,Finance,Finance Manager,ALL_STAFF; FIN_AP_APPROVE; FIN_AR_V2; FIN_REPORTING,ROLE-FIN-02; ROLE-FIN-04; ROLE-FIN-05; ROLE-MIX-01,4,4,15,15,no,,,no,,SOD-002,SOD-002,,,no
+U079,Sales,Account Executive,ALL_STAFF; SAL_BASIC,ROLE-MIX-01; ROLE-SAL-01,2,2,6,6,no,,,no,,,,,,no
+U080,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U081,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U082,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U083,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U084,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U085,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U086,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE; SAL_QUOTING,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,4,3,10,10,no,,,no,,,,,,no
+U087,Sales,Account Executive,SAL_BASIC; SAL_QUOTE,ROLE-SAL-01; ROLE-SAL-02,2,2,9,9,no,,,no,,,,,,no
+U088,Sales,Account Executive,ALL_STAFF; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-02,2,2,10,10,no,,,no,,,,,,no
+U089,Sales,Account Executive,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U090,Sales,Sales Coordinator,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U091,Sales,Sales Coordinator,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U092,Sales,Sales Coordinator,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U093,Sales,Sales Coordinator,ALL_STAFF; SAL_BASIC,ROLE-MIX-01; ROLE-SAL-01,2,2,6,6,no,,,no,,,,,,no
+U094,Sales,Sales Coordinator,ALL_STAFF; SAL_BASIC; SAL_QUOTE; SHARED_MAILBOX_LEGACY,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,4,3,10,10,no,,,no,,,,,,no
+U095,Sales,Sales Coordinator,ALL_STAFF; CUS_BASIC; SAL_BASIC; SAL_QUOTE; SAL_QUOTING,ROLE-CUS-01; ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,5,4,12,12,no,,,no,,,,,,no
+U096,Sales,Sales Coordinator,ALL_STAFF; SAL_QUOTING,ROLE-MIX-01; ROLE-SAL-02,2,2,10,10,no,,,no,,,,,,no
+U097,Sales,Sales Coordinator,SAL_BASIC,ROLE-SAL-01,1,1,5,5,no,,,no,,,,,,no
+U098,Sales,Pricing Analyst,ALL_STAFF; SAL_BASIC; SAL_PRICING,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-05,3,3,7,7,no,,,no,,,,,,no
+U099,Sales,Pricing Analyst,SAL_BASIC; SAL_PRICING; SAL_QUOTE_APPROVE,ROLE-SAL-01; ROLE-SAL-03; ROLE-SAL-05,3,3,8,8,no,,,no,,SOD-006,SOD-006,,,no
+U100,Sales,Sales Manager,ALL_STAFF; SAL_BASIC; SAL_MANAGER; SAL_QUOTE; SAL_QUOTE_APPROVE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02; ROLE-SAL-03; ROLE-SAL-04,5,5,13,13,no,,,no,,,,,,no
+U101,Sales,Sales Manager,ALL_STAFF; SAL_BASIC; SAL_MANAGER; SAL_PRICING; SAL_QUOTE; SAL_QUOTE_APPROVE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02; ROLE-SAL-03; ROLE-SAL-04; ROLE-SAL-05,6,6,14,14,no,,,no,,SOD-006,SOD-006,,,no
+U102,Sales,Sales Manager,ALL_STAFF; SAL_BASIC; SAL_MANAGER; SAL_QUOTE; SAL_QUOTE_APPROVE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02; ROLE-SAL-03; ROLE-SAL-04,5,5,13,13,no,,,no,,,,,,no
+U103,Sales,Business Development Manager,ALL_STAFF; SAL_BASIC; SAL_QUOTE; SAL_QUOTE_APPROVE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02; ROLE-SAL-03,4,4,12,12,no,,,no,,,,,,no
+U104,Sales,Business Development Manager,ALL_STAFF; SAL_BASIC; SAL_QUOTE,ROLE-MIX-01; ROLE-SAL-01; ROLE-SAL-02,3,3,10,10,no,,,no,,,,,,no
+U105,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U106,Warehouse,Warehouse Operative,ALL_STAFF; SAL_BASIC; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-SAL-01; ROLE-WAR-01; ROLE-WAR-02,4,4,11,11,no,,,no,,,,,,no
+U107,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U108,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U109,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE; WH_OPERATIVE_OLD,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,4,3,8,8,no,,,no,,,,,,no
+U110,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC,ROLE-MIX-01; ROLE-WAR-01,2,2,4,4,no,,,no,,,,,,no
+U111,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U112,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U113,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U114,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U115,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC,ROLE-MIX-01; ROLE-WAR-01,2,2,4,4,no,,,no,,,,,,no
+U116,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U117,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U118,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U119,Warehouse,Warehouse Operative,ALL_STAFF; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-02,2,2,8,8,no,,,no,,,,,,no
+U120,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U121,Warehouse,Warehouse Operative,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U122,Warehouse,Goods In Clerk,ALL_STAFF; WH_BASIC; WH_GOODS_IN,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-03,3,3,6,6,no,,,no,,,,,,no
+U123,Warehouse,Goods In Clerk,ALL_STAFF; WH_BASIC; WH_GOODS_IN,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-03,3,3,6,6,no,,,no,,,,,,no
+U124,Warehouse,Goods In Clerk,ALL_STAFF; WH_BASIC; WH_GOODS_IN,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-03,3,3,6,6,no,,,no,,,,,,no
+U125,Warehouse,Goods In Clerk,ALL_STAFF; WH_BASIC; WH_GOODS_IN; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02; ROLE-WAR-03,4,4,9,9,no,,,no,,,,,,no
+U126,Warehouse,Goods In Clerk,ALL_STAFF; WH_BASIC; WH_GOODS_IN,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-03,3,3,6,6,no,,,no,,,,,,no
+U127,Warehouse,Goods In Clerk,ALL_STAFF; WH_BASIC; WH_GOODS_IN,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-03,3,3,6,6,no,,,no,,,,,,no
+U128,Warehouse,Stock Controller,ALL_STAFF; WH_BASIC; WH_OPERATIVE; WH_SUPERVISOR,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02; ROLE-WAR-04,4,4,11,11,no,,,no,,,,,,no
+U129,Warehouse,Stock Controller,ALL_STAFF; WH_ADJUST_APPROVE; WH_BASIC; WH_OPERATIVE; WH_SUPERVISOR,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02; ROLE-WAR-04; ROLE-WAR-05,5,5,12,12,no,,,no,,SOD-007,SOD-007,,,no
+U130,Warehouse,Stock Controller,ALL_STAFF; WH_BASIC; WH_OPERATIVE,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-02,3,3,8,8,no,,,no,,,,,,no
+U131,Warehouse,Warehouse Supervisor,ALL_STAFF; WH_ADJUST_APPROVE; WH_BASIC; WH_SUPERVISOR,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-04; ROLE-WAR-05,4,4,12,12,no,,,no,,SOD-007,SOD-007,,,no
+U132,Warehouse,Warehouse Supervisor,ALL_STAFF; WH_BASIC; WH_SUPERVISOR,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-04,3,3,11,11,no,,,no,,,,,,no
+U133,Warehouse,Warehouse Supervisor,ALL_STAFF; WH_BASIC; WH_SUPERVISOR,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-04,3,3,11,11,no,,,no,,,,,,no
+U134,Warehouse,Warehouse Manager,ALL_STAFF; WH_ADJUST_APPROVE; WH_BASIC; WH_SUPERVISOR,ROLE-MIX-01; ROLE-WAR-01; ROLE-WAR-04; ROLE-WAR-05,4,4,12,12,no,,,no,,SOD-007,SOD-007,,,no
+U135,Administration,IT Support Analyst,ADM_CONFIG; ADM_USERS; ALL_STAFF,ROLE-ADM-01; ROLE-ADM-02; ROLE-MIX-01,3,3,7,7,no,,,no,,,,,,no
+U136,Administration,IT Support Analyst,ADM_USERS; ALL_STAFF,ROLE-ADM-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U137,Administration,HR Administrator,ADM_USERS; ALL_STAFF,ROLE-ADM-01; ROLE-MIX-01,2,2,5,5,no,,,no,,,,,,no
+U138,Administration,HR Administrator,ALL_STAFF,ROLE-MIX-01,1,1,2,2,no,,,no,,,,,,no
+U139,Administration,Office Administrator,ALL_STAFF,ROLE-MIX-01,1,1,2,2,no,,,no,,,,,,no
+U140,Administration,Office Administrator,ALL_STAFF; SHARED_MAILBOX_LEGACY,ROLE-MIX-01,2,1,2,2,no,,,no,,,,,,no
+U141,Administration,Office Administrator,ALL_STAFF; SHARED_MAILBOX_LEGACY,ROLE-MIX-01,2,1,2,2,no,,,no,,,,,,no
+U142,Administration,Systems Administrator,ADM_CONFIG; ALL_STAFF; SYS_ADMIN,ROLE-ADM-02; ROLE-ADM-03; ROLE-MIX-01,3,3,10,10,no,,,no,,SOD-008,SOD-008,,,no
+U143,Management,Director,ALL_STAFF; AUDIT_READONLY; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MAN-02; ROLE-MIX-01,3,3,12,12,no,,,no,,,,,,no
+U144,Management,Director,ALL_STAFF; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MIX-01,2,2,8,8,no,,,no,,,,,,no
+U145,Management,Director,ALL_STAFF; AUDIT_READONLY; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MAN-02; ROLE-MIX-01,3,3,12,12,no,,,no,,,,,,no
+U146,Management,Director,ALL_STAFF; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MIX-01,2,2,8,8,no,,,no,,,,,,no
+U147,Management,Compliance Officer,ALL_STAFF; AUDIT_READONLY,ROLE-MAN-02; ROLE-MIX-01,2,2,7,7,no,,,no,,,,,,no
+U148,Management,Head of Department,ALL_STAFF; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MIX-01,2,2,8,8,no,,,no,,,,,,no
+U149,Management,Head of Department,ALL_STAFF; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MIX-01,2,2,8,8,no,,,no,,,,,,no
+U150,Management,Head of Department,ALL_STAFF; MGT_DASHBOARD,ROLE-MAN-01; ROLE-MIX-01,2,2,8,8,no,,,no,,,,,,no

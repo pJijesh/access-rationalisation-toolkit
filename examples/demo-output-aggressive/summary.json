@@ -1,0 +1,65 @@
+{
+  "tool_version": "1.0.0",
+  "parameters": {
+    "threshold": 0.8,
+    "max_groups": 4,
+    "spread_min": 5,
+    "dominance": 0.6,
+    "max_gain_share": 1.0
+  },
+  "inputs": {
+    "users": 150,
+    "groups": 42,
+    "permissions": 64,
+    "memberships": 448,
+    "sod_rules": 8,
+    "sha256": {
+      "group_permissions.csv": "7d23122cc4b91021501c1d8b86fa3a56876a7a5302f774edcfb9a762e741e474",
+      "memberships.csv": "1c3f54c791080e1f127059619200834f382e17bb7f5885812cd383ed4720d891",
+      "sod_rules.csv": "9f309add792c99ff928a189dc211747448f3959740cee2107c2c1d28303b8805",
+      "users.csv": "f0f9b1b8e9f2ebfc149ccdaa6dacc1cbf57280afba287b59a29e1d835cc626da"
+    }
+  },
+  "before": {
+    "groups": 42,
+    "groups_with_no_members": 3,
+    "groups_with_no_permissions": 1,
+    "identical_permission_pairs": 3,
+    "near_identical_permission_pairs": 11,
+    "avg_groups_per_user": 2.99,
+    "median_groups_per_user": 3.0,
+    "max_groups_per_user": 6,
+    "users_over_group_limit": 9,
+    "redundant_memberships": 163,
+    "users_with_sod_conflict": 16,
+    "sod_conflict_instances": 18,
+    "groups_containing_sod_pair": 1
+  },
+  "after": {
+    "roles": 30,
+    "identical_permission_pairs": 0,
+    "roles_formed_by_merging": 7,
+    "groups_absorbed_into_merged_roles": 15,
+    "groups_retired": 4,
+    "avg_roles_per_user": 2.87,
+    "median_roles_per_user": 3.0,
+    "max_roles_per_user": 6,
+    "users_over_group_limit": 6,
+    "users_with_sod_conflict": 16,
+    "sod_conflict_instances": 18,
+    "sod_conflicts_newly_introduced": 0,
+    "roles_containing_sod_pair": 1,
+    "cross_department_assignments": 5
+  },
+  "impact": {
+    "users_gaining_access": 34,
+    "users_gaining_access_high": 33,
+    "users_losing_access": 0,
+    "users_unchanged": 116,
+    "merges_blocked": 0
+  },
+  "reduction": {
+    "groups_removed": 12,
+    "groups_removed_pct": 28.6
+  }
+}

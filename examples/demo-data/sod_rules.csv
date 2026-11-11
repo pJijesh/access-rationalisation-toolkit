@@ -1,0 +1,9 @@
+rule_id,permission_a,permission_b,description
+SOD-001,supplier.create,payment.approve,Create a supplier and approve payments
+SOD-002,invoice.create,invoice.approve,Raise and approve the same invoice
+SOD-003,payment.create,payment.approve,Prepare and approve a payment
+SOD-004,supplier.edit_bank_details,payment.release,Change bank details and release payments
+SOD-005,customs.submit,customs.approve,Submit and approve a customs entry
+SOD-006,rate.edit,quote.approve,Set rates and approve quotes
+SOD-007,stock.adjust,stock.approve_adjustment,Adjust stock and approve the adjustment
+SOD-008,config.admin,audit.view,Administer the system and review its audit trail

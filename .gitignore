@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+.DS_Store
+
+# Output of the quick start (the committed copies live under examples/)
+/demo-data/
+/output/
+
+# Never commit real exports
+/real-data/

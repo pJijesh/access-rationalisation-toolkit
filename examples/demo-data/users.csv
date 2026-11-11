@@ -1,0 +1,151 @@
+user,department,job_title
+U001,Operations,Freight Operator
+U002,Operations,Freight Operator
+U003,Operations,Freight Operator
+U004,Operations,Freight Operator
+U005,Operations,Freight Operator
+U006,Operations,Freight Operator
+U007,Operations,Freight Operator
+U008,Operations,Freight Operator
+U009,Operations,Freight Operator
+U010,Operations,Freight Operator
+U011,Operations,Freight Operator
+U012,Operations,Freight Operator
+U013,Operations,Freight Operator
+U014,Operations,Freight Operator
+U015,Operations,Freight Operator
+U016,Operations,Freight Operator
+U017,Operations,Freight Operator
+U018,Operations,Freight Operator
+U019,Operations,Freight Operator
+U020,Operations,Freight Operator
+U021,Operations,Senior Freight Operator
+U022,Operations,Senior Freight Operator
+U023,Operations,Senior Freight Operator
+U024,Operations,Senior Freight Operator
+U025,Operations,Senior Freight Operator
+U026,Operations,Senior Freight Operator
+U027,Operations,Senior Freight Operator
+U028,Operations,Senior Freight Operator
+U029,Operations,Customer Service Agent
+U030,Operations,Customer Service Agent
+U031,Operations,Customer Service Agent
+U032,Operations,Customer Service Agent
+U033,Operations,Customer Service Agent
+U034,Operations,Customer Service Agent
+U035,Operations,Operations Supervisor
+U036,Operations,Operations Supervisor
+U037,Operations,Operations Supervisor
+U038,Operations,Operations Manager
+U039,Customs,Customs Clerk
+U040,Customs,Customs Clerk
+U041,Customs,Customs Clerk
+U042,Customs,Customs Clerk
+U043,Customs,Customs Clerk
+U044,Customs,Customs Clerk
+U045,Customs,Customs Clerk
+U046,Customs,Customs Clerk
+U047,Customs,Customs Clerk
+U048,Customs,Customs Clerk
+U049,Customs,Customs Clerk
+U050,Customs,Customs Clerk
+U051,Customs,Senior Customs Clerk
+U052,Customs,Senior Customs Clerk
+U053,Customs,Senior Customs Clerk
+U054,Customs,Senior Customs Clerk
+U055,Customs,Senior Customs Clerk
+U056,Customs,Senior Customs Clerk
+U057,Customs,Customs Supervisor
+U058,Customs,Customs Supervisor
+U059,Customs,Customs Supervisor
+U060,Customs,Customs Compliance Lead
+U061,Finance,Accounts Payable Clerk
+U062,Finance,Accounts Payable Clerk
+U063,Finance,Accounts Payable Clerk
+U064,Finance,Accounts Payable Clerk
+U065,Finance,Accounts Payable Clerk
+U066,Finance,Accounts Receivable Clerk
+U067,Finance,Accounts Receivable Clerk
+U068,Finance,Accounts Receivable Clerk
+U069,Finance,Accounts Receivable Clerk
+U070,Finance,Accounts Receivable Clerk
+U071,Finance,Credit Controller
+U072,Finance,Credit Controller
+U073,Finance,Accountant
+U074,Finance,Accountant
+U075,Finance,Accountant
+U076,Finance,Treasury Analyst
+U077,Finance,Finance Manager
+U078,Finance,Finance Manager
+U079,Sales,Account Executive
+U080,Sales,Account Executive
+U081,Sales,Account Executive
+U082,Sales,Account Executive
+U083,Sales,Account Executive
+U084,Sales,Account Executive
+U085,Sales,Account Executive
+U086,Sales,Account Executive
+U087,Sales,Account Executive
+U088,Sales,Account Executive
+U089,Sales,Account Executive
+U090,Sales,Sales Coordinator
+U091,Sales,Sales Coordinator
+U092,Sales,Sales Coordinator
+U093,Sales,Sales Coordinator
+U094,Sales,Sales Coordinator
+U095,Sales,Sales Coordinator
+U096,Sales,Sales Coordinator
+U097,Sales,Sales Coordinator
+U098,Sales,Pricing Analyst
+U099,Sales,Pricing Analyst
+U100,Sales,Sales Manager
+U101,Sales,Sales Manager
+U102,Sales,Sales Manager
+U103,Sales,Business Development Manager
+U104,Sales,Business Development Manager
+U105,Warehouse,Warehouse Operative
+U106,Warehouse,Warehouse Operative
+U107,Warehouse,Warehouse Operative
+U108,Warehouse,Warehouse Operative
+U109,Warehouse,Warehouse Operative
+U110,Warehouse,Warehouse Operative
+U111,Warehouse,Warehouse Operative
+U112,Warehouse,Warehouse Operative
+U113,Warehouse,Warehouse Operative
+U114,Warehouse,Warehouse Operative
+U115,Warehouse,Warehouse Operative
+U116,Warehouse,Warehouse Operative
+U117,Warehouse,Warehouse Operative
+U118,Warehouse,Warehouse Operative
+U119,Warehouse,Warehouse Operative
+U120,Warehouse,Warehouse Operative
+U121,Warehouse,Warehouse Operative
+U122,Warehouse,Goods In Clerk
+U123,Warehouse,Goods In Clerk
+U124,Warehouse,Goods In Clerk
+U125,Warehouse,Goods In Clerk
+U126,Warehouse,Goods In Clerk
+U127,Warehouse,Goods In Clerk
+U128,Warehouse,Stock Controller
+U129,Warehouse,Stock Controller
+U130,Warehouse,Stock Controller
+U131,Warehouse,Warehouse Supervisor
+U132,Warehouse,Warehouse Supervisor
+U133,Warehouse,Warehouse Supervisor
+U134,Warehouse,Warehouse Manager
+U135,Administration,IT Support Analyst
+U136,Administration,IT Support Analyst
+U137,Administration,HR Administrator
+U138,Administration,HR Administrator
+U139,Administration,Office Administrator
+U140,Administration,Office Administrator
+U141,Administration,Office Administrator
+U142,Administration,Systems Administrator
+U143,Management,Director
+U144,Management,Director
+U145,Management,Director
+U146,Management,Director
+U147,Management,Compliance Officer
+U148,Management,Head of Department
+U149,Management,Head of Department
+U150,Management,Head of Department

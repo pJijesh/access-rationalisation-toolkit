@@ -1,0 +1,43 @@
+old_group,old_members,old_permissions,action,new_role_id,new_role_name,role_permissions,permissions_added_to_group,members_gaining_via_role,cluster_min_similarity
+ADM_CONFIG,2,2,retain,ROLE-ADM-02,Administration - config.edit (+1),2,0,0,1.000
+ADM_USERS,3,3,retain,ROLE-ADM-01,Administration - user.reset_password (+2),3,0,0,1.000
+ALL_STAFF,145,2,retain,ROLE-MIX-01,Cross-functional - document.view (+1),2,0,0,1.000
+AUDIT_READONLY,3,5,retain,ROLE-MAN-02,Management - report.audit (+4),5,0,0,1.000
+CUS_APPROVE,6,4,retain,ROLE-CUS-03,Customs - customs.approve (+3),4,0,0,1.000
+CUS_BASIC,22,4,retain,ROLE-CUS-01,Customs - tariff.view (+3),4,0,0,1.000
+CUS_DRAFT,8,7,merge (identical permissions),ROLE-CUS-02,Customs - customs.amend (+6),7,0,0,1.000
+CUS_DRAFT_TEMP,2,7,merge (identical permissions),ROLE-CUS-02,Customs - customs.amend (+6),7,0,0,1.000
+CUS_PROJECT_TEMP,0,8,retire (no members),,,0,0,0,
+CUS_SUBMIT,6,8,retain,ROLE-CUS-04,Customs - customs.submit (+7),8,0,0,1.000
+CUS_SUBMIT_V2,2,9,retain,ROLE-CUS-05,Customs - document.delete (+8),9,0,0,1.000
+FIN_AP,5,7,retain,ROLE-FIN-03,Finance - payment.create (+6),7,0,0,1.000
+FIN_AP_APPROVE,5,5,retain,ROLE-FIN-04,Finance - invoice.approve (+4),5,0,0,1.000
+FIN_AR,7,5,retain,ROLE-FIN-01,Finance - invoice.create (+4),5,0,0,1.000
+FIN_AR_V2,3,6,retain,ROLE-FIN-05,Finance - customer.set_credit_limit (+5),6,0,0,1.000
+FIN_REPORTING,6,5,retain,ROLE-FIN-02,Finance - report.financial (+4),5,0,0,1.000
+FIN_SUPPLIER_MASTER,3,4,retain,ROLE-FIN-06,Finance - supplier.edit_bank_details (+3),4,0,0,1.000
+FIN_TREASURY,2,4,retain,ROLE-FIN-07,Finance - payment.release (+3),4,0,0,1.000
+FIN_YEAREND_OLD,0,4,retire (no members),,,0,0,0,
+MGT_DASHBOARD,7,6,retain,ROLE-MAN-01,Management - report.financial (+5),6,0,0,1.000
+OPS_BASIC,32,5,retain,ROLE-OPE-01,Operations - booking.view (+4),5,0,0,1.000
+OPS_BOOKING,22,12,merge (identical permissions),ROLE-OPE-02,Operations - booking.confirm (+11),12,0,0,1.000
+OPS_BOOKING_COPY,2,12,merge (identical permissions),ROLE-OPE-02,Operations - booking.confirm (+11),12,0,0,1.000
+OPS_BOOKING_V2,5,13,retain,ROLE-OPE-05,Operations - document.delete (+12),13,0,0,1.000
+OPS_CSA,6,8,retain,ROLE-OPE-04,Operations - booking.view (+7),8,0,0,1.000
+OPS_SENIOR,9,14,retain,ROLE-OPE-03,Operations - shipment.cancel (+13),14,0,0,1.000
+OPS_SUPERVISOR,4,17,retain,ROLE-OPE-06,Operations - shipment.cancel (+16),17,0,0,1.000
+OPS_TRIAL_OLD,0,12,retire (no members),,,0,0,0,
+SAL_BASIC,26,5,retain,ROLE-SAL-01,Sales - rate.view (+4),5,0,0,1.000
+SAL_MANAGER,3,12,retain,ROLE-SAL-04,Sales - quote.approve (+11),12,0,0,1.000
+SAL_PRICING,3,3,retain,ROLE-SAL-05,Sales - rate.edit (+2),3,0,0,1.000
+SAL_QUOTE,20,9,merge (identical permissions),ROLE-SAL-02,Sales - customer.create (+8),9,0,0,1.000
+SAL_QUOTE_APPROVE,5,4,retain,ROLE-SAL-03,Sales - quote.approve (+3),4,0,0,1.000
+SAL_QUOTING,3,9,merge (identical permissions),ROLE-SAL-02,Sales - customer.create (+8),9,0,0,1.000
+SHARED_MAILBOX_LEGACY,5,0,retire (grants no permissions),,,0,0,0,
+SYS_ADMIN,1,8,retain,ROLE-ADM-03,Administration - config.admin (+7),8,0,0,1.000
+WH_ADJUST_APPROVE,3,3,retain,ROLE-WAR-05,Warehouse - stock.approve_adjustment (+2),3,0,0,1.000
+WH_BASIC,30,3,retain,ROLE-WAR-01,Warehouse - stock.view (+2),3,0,0,1.000
+WH_GOODS_IN,6,4,retain,ROLE-WAR-03,Warehouse - stock.receive (+3),4,0,0,1.000
+WH_OPERATIVE,19,7,merge (similar permissions),ROLE-WAR-02,Warehouse - stock.dispatch (+6),7,0,0,0.857
+WH_OPERATIVE_OLD,1,6,merge (similar permissions),ROLE-WAR-02,Warehouse - stock.dispatch (+6),7,1,0,0.857
+WH_SUPERVISOR,6,10,retain,ROLE-WAR-04,Warehouse - stock.adjust (+9),10,0,0,1.000
