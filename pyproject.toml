@@ -9,7 +9,7 @@ description = "A method and a small standard-library tool for rationalising lega
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Jijesh Puliyappottammal" }]
+authors = [{ name = "Puliyappottammal Jijesh" }]
 keywords = ["iam", "access-review", "role-based-access-control", "segregation-of-duties", "least-privilege"]
 classifiers = [
     "Programming Language :: Python :: 3",
