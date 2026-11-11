@@ -115,10 +115,8 @@ Planned, not promised. Order and timing change with other work.
 
 ## Author
 
-Jijesh Puliyappottammal. [GitHub](https://github.com/pJijesh) | [LinkedIn](https://linkedin.com/in/pjijesh)
-
-Licensed under the [MIT Licence](LICENSE). Contributions are welcome; see [CONTRIBUTING](CONTRIBUTING.md).
+Jijesh Puliyappottammal. [GitHub](https://github.com/pJijesh) | [LinkedIn](https://www.linkedin.com/in/pjijesh)
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Contributions are welcome; see [CONTRIBUTING](CONTRIBUTING.md).
